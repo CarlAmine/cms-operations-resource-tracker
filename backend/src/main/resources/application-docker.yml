@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/cms_tracker
+    username: cms_user
+    password: cms_pass
